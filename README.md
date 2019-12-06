@@ -1,0 +1,2 @@
+# scritps
+A script repostory
